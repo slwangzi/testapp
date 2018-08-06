@@ -6,13 +6,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("A!");
-            Console.WriteLine("b!");
-            Console.WriteLine("c!");
+            Console.WriteLine("1");
         }
 
-        static void Main3(string[] args)
+        static void Main2(string[] args)
         {
+            Console.WriteLine("2");
         }
     }
 }
