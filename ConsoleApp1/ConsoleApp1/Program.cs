@@ -11,11 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine("c!");
         }
 
-        static void Main2(string[] args)
+        static void Main3(string[] args)
         {
-            Console.WriteLine("A!");
-            Console.WriteLine("b!");
-            Console.WriteLine("c!");
         }
     }
 }
